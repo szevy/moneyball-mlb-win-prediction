@@ -8,7 +8,8 @@ This repository contains a Python script that implements a machine learning pipe
 
 The core objective of this project is to **accurately predict the number of wins for baseball teams**. The script processes historical team data, generates new insightful features, and trains a sophisticated ensemble model to make predictions. 
 
-🏅 **Final Private Leaderboard MAE: 2.53786** (Kaggle Competition)
+🏅 **Achieved an MAE of 2.53786 on the private test set** (Kaggle Competition)
+![Kaggle Private Leaderboard Score](images/kaggle_score.png)
 
 The final output is a submission file compatible with typical machine learning competitions.
 
